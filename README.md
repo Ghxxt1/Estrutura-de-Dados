@@ -1,4 +1,4 @@
-1 Introdução às Listas Dinâmicas
+##1 Introdução às Listas Dinâmicas
 Listas Estáticas vs. Dinâmicas:
 •	Estáticas (Arrays): Tamanho fixo, dificultando a adaptação a mudanças no número de elementos.
 •	Dinâmicas: Tamanho flexível, com alocação e liberação de memória conforme necessário.
